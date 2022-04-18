@@ -5,7 +5,7 @@ from google.cloud import texttospeech
 import io
 import streamlit as st
 from sympy import content
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:/Users/salib/udemy/text_speech/future-linker-344511-3be9cc6bff4a.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'https://share.streamlit.io/kurohige0812/onsei/future-linker-344511-3be9cc6bff4a.json'
 
 def synthesize_speech(text, lang='日本語', gender='defalut'):
     gender_type = {
