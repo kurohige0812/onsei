@@ -1,2 +1,6 @@
+os
+io
 streamlit==1.7.0
 texttospeech
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:/Users/salib/udemy/text_speech/future-linker-344511-3be9cc6bff4a.json'
+
