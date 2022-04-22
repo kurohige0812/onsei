@@ -1,3 +1,2 @@
-io
 streamlit==1.7.0
 google-cloud-texttospeech
