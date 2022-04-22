@@ -1,2 +1,2 @@
-google
+gTTS==2.2.4
 streamlit==1.7.0
