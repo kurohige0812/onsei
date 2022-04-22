@@ -1,7 +1,7 @@
 import os
 from xml.etree.ElementTree import Comment
 from click import command
-from gtts import gTTS
+from google.cloud import texttospeech
 import io
 import streamlit as st
 from sympy import content
