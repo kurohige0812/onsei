@@ -1,5 +1,5 @@
+xml.etree.ElementTree-Comment
+click-command
+google.cloud-texttospeech
 streamlit==1.7.0
-texttospeech
-content
-Comment
-command
+sympy-content
